@@ -27,5 +27,4 @@ while True:
     elif command == "quit":
         break
     else:
-        print("I dom't understand that ...")
-
+        print("I don't understand that ...")
